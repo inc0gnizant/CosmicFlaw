@@ -8,7 +8,7 @@
 - I’m looking to collaborate on nothing, I am learning most of things currently but still, I 'may' collaborate on some game jams and AI projects..... (thanks for the help, anyway)
   
 - How to reach me:
-  I go by the same username on StackOverflow, Discord, Itch.io, also a member of AISC community.
+  I go by the same username on StackOverflow, Discord, Itch.io and Kaggle.
 
 - Apart from programming stuff, I also have a deep rooted interest in Pure Maths and Astronomy.
 
